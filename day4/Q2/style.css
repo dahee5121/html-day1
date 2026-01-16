@@ -1,0 +1,22 @@
+.box {
+    width:100px;
+    height:100px;
+    background-color:black;
+    color:white;
+    
+}
+
+
+.main {
+    flex-direction: column;
+    display: flex;
+}
+
+.box-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box-end {
+  margin-left: auto;
+}

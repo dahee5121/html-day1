@@ -1,0 +1,31 @@
+.box1 {
+    width:200px;
+    height:200px;
+    background-color:gray;
+    color:white;
+    position: relative;
+    top:50px;
+    
+    
+}
+.box2 {
+    width:100px;
+    height:100px;
+    background-color:black;
+    color:white;
+    
+    
+}
+
+.main {
+    justify-content: center;
+    display: flex;
+}
+
+
+.locate2 {
+    position:absolute;
+    left: 50px;
+    top: 50px;
+    
+}

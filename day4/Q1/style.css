@@ -1,0 +1,21 @@
+.box{
+    width:100px;
+    height:100px;
+    background-color:black;
+    color:white;
+    
+}
+
+
+.main {
+    justify-content: space-between;
+    display: flex;
+  
+}
+
+.group {
+  display: flex;
+}
+.mr-5 {
+  margin-right: 5px;
+}
