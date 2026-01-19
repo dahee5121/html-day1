@@ -1,0 +1,24 @@
+nav {
+    
+}
+main {
+    height:1500px;
+    background-color:skyblue;
+    
+    
+}
+.main1 {
+    display: flex;
+}
+.card1 {
+    
+    justify-content:flex-start;
+}
+
+footer {
+    height:100px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+}
+h1
